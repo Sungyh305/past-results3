@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.6.0",
+    "expo-font": "^11.6.0",
+    "metro": "^0.80.0",
+    "metro-core": "^0.80.0",
+    "react-native-dotenv": "^3.4.9"
+  }
+}
